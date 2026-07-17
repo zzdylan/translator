@@ -220,3 +220,7 @@ translator/
 └── example/
     └── main.go         # 使用示例
 ```
+
+## 社区
+
+本项目在 [LINUX DO](https://linux.do) 社区分享，欢迎交流。
